@@ -1,7 +1,7 @@
 {
   // Cloudflare Workers config for deploying this Astro build as static assets.
   // This makes `npx wrangler deploy` work without extra CLI arguments.
-  "name": "opencodehub-docs",
+  "name": "docs",
   "compatibility_date": "2026-01-22",
 
   // Minimal worker that forwards requests to the uploaded static assets.
